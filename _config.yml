@@ -1,0 +1,28 @@
+name: Capetowners
+favicon: null
+layout_spectrum: 0.5637744511477649
+typography_spectrum: 0.7410125047899783
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.33667676779441535
+  lightness: 0.36256191646680236
+  saturation: 0.8480025120079517
+  rhythmicContrast: 0.3944734144024551
+purpose: []
